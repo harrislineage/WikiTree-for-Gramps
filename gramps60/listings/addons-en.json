@@ -1,0 +1,12 @@
+[
+    {
+        "n": "WikiTree for Gramps",
+        "i": "WikiTreeForGramps",
+        "t": 6,
+        "d": "Adds WikiTree integration to the Gramps Person Editor.",
+        "v": "0.1.0",
+        "g": "6.0",
+        "s": 3,
+        "z": "WikiTreeForGramps.addon.tgz"
+    }
+]
