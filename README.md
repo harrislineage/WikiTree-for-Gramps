@@ -30,7 +30,7 @@ Select the **Projects** tab.
 
 Click **Add Project** and enter the WikiTree for Gramps addon repository URL:
 
-    [REPOSITORY URL]
+    https://raw.githubusercontent.com/harrislineage/WikiTree-for-Gramps/refs/heads/harrislineage/gramps60
 
 Save the project.
 
